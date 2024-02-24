@@ -1,0 +1,90 @@
+{
+  "workbench.colorCustomizations": {},
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "[python]": {
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "C_Cpp.default.compilerPath": "c:\\JS\\Arquivos\\aleatorio\\index.cpp",
+  "terminal.integrated.env.windows": {},
+  "editor.wordWrap": "on",
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "liveSassCompile.settings.showOutputWindowOn": "None",
+  "codesnap.backgroundColor": "#2d2a2e",
+  "codesnap.containerPadding": "0",
+  "codesnap.shutterAction": "copy",
+  "redhat.telemetry.enabled": true,
+  "workbench.iconTheme": "symbols",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.fontFamily": "Fira Code, Font Awesome, Nerd Fonts, monospace",
+  "editor.fontLigatures": true,
+  "git.openRepositoryInParentFolders": "always",
+  "settingsSync.ignoredExtensions": ["shalldie.background"],
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.formatOnSave": true,
+  "explorer.fileNesting.enabled": true,
+  "terminal.integrated.fontSize": 14,
+  "security.allowedUNCHosts": ["wsl.localhost"],
+  "git.enableSmartCommit": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "terminal.integrated.tabStopWidth": 2,
+  "terminal.integrated.cursorStyle": "line",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "symbols.hidesExplorerArrows": false,
+  "editor.lineHeight": 1.75,
+  "editor.rulers": [80, 120],
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.renderLineHighlight": "gutter",
+  "breadcrumbs.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  //
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.location": "hidden",
+  //
+  "window.titleBarStyle": "native",
+  "apc.electron": {
+    "titleBarStyle": "hiddenInset",
+    "frame": false
+  },
+  "apc.header": {
+    "height": 36
+  },
+  "apc.listRow": {
+    "height": 24
+  },
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none",
+    ".editor-actions": "display: none",
+    ".nosidebar .inline-tabs-placeholder": "width: 75px",
+    ".pane-header": "padding: 0 8px",
+    ".pane-body": "padding: 0 8px",
+    ".split-view-view:first-child .pane-header": "display: none !important",
+    ".monaco-list-row": "border-radius: 4px",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none"
+  },
+  //
+  "workbench.colorTheme": "Min Dark",
+  "window.commandCenter": false,
+  "window.menuBarVisibility": "compact",
+  "workbench.layoutControl.enabled": false,
+  "codetogether.userName": "Cleitin",
+  "codetogether.virtualCursorJoin": "ownVirtualCursor",
+  "codetogether.virtualCursorRemember": true
+}
